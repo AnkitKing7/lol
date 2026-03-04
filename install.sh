@@ -88,5 +88,5 @@ echo -e "${C4}==================================================================
 echo ""
 
 # Run the panel
-# Note: Ensure Svm.py is configured to listen on port 3000
-./venv/bin/python3 Svm.py
+# Note: Ensure svm.py is configured to listen on port 3000
+./venv/bin/python3 svm.py
